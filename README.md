@@ -10,8 +10,8 @@ I have been creating software since 15yrs old :underage: , started with Basic, D
 - :new:  I love to dive deep into new technologies and/or research on cutting edge tech stacks for solving problems in the best way we can
 - :open_hands:  Currently contributing to:
   - [AsyncAPI initiative](http://asyncapi.com/)
-  - Donator and currently maintainer of the [PHP template for their code generator](https://github.com/asyncapi/asyncapi-php-template) 
-  - Contributor of their [Go template](https://github.com/asyncapi/go-template)
+  - Donator and current maintainer of the [AsyncAPI PHP template](https://github.com/asyncapi/asyncapi-php-template) 
+  - Contributor of [AsyncAPI Go template](https://github.com/asyncapi/go-template)
   - Maintainer of the [Sheetsu PHP SDK](https://github.com/emilianozublena/sheetsu-php)
 - :newspaper:  I like to write articles of whatever it is that i'm learning -either tech related or not- in [my medium account](https://medium.com/@emilianozublena)
 - :email:  Reach me at ezublena@gmail.com or connect with me at [LinkedIn](https://www.linkedin.com/in/emilianozublena/)
