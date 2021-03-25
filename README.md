@@ -3,11 +3,12 @@ Iʼm Emiliano Zublena, a passionate Software Engineer native from Argentina, and
 I have been creating software since 15yrs old :underage: , started with Basic, Dolphin, Pascal and the likes, moved to the PHP world, danced with Javascript(and NodeJS) and currently in an intense love relationship with Golang -which if you haven't tried, i soooo urge you to try it-
 
 - :free:  Started working as a freelance/consultant and building teams for startups in Argentina 
-- :busts_in_silhouette:  Founded my startup (Nubazon) which provided a SaaS for building eCommerces for small entrepreneurs
-- :statue_of_liberty:  Moved into the international market, with positions such as Senior Software Engineer and Tech Lead for companies mainly in the US
+- :busts_in_silhouette:  Co-founded my startup (Nubazon) which provided a SaaS for building e-ordering websites for small entrepreneurs
+- :statue_of_liberty:  Moved into the international market, where i've worked mainly on backend roles.
 - :couple:  I'm a team player guy, or so my team mates say i am
 - :brain:  I have an attitude of knowledge-sharing and mentoring
 - :new:  I love to dive deep into new technologies and/or research on cutting edge tech stacks for solving problems in the best way we can
+- Currently i'm tech lead of the Core POD @Giving Assistant, a San Francisco based company.
 - :open_hands:  Currently contributing to:
   - [AsyncAPI initiative](http://asyncapi.com/)
   - Donator and current maintainer of the [AsyncAPI PHP template](https://github.com/asyncapi/asyncapi-php-template) 
