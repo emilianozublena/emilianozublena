@@ -9,7 +9,7 @@ I have been creating software since 15yrs old :underage: , started with Basic, D
 - :brain:  I have an attitude of knowledge-sharing and mentoring
 - :new:  I love to dive deep into new technologies and/or research on cutting edge tech stacks for solving problems in the best way we can
 - :construction_worker: Currently i'm the tech lead of the Core POD @Giving Assistant, a San Francisco based company.
-- :open_hands:  Currently contributing to:
+- :open_hands:  And also contributing to:
   - [AsyncAPI initiative](http://asyncapi.com/)
   - Donator and current maintainer of the [AsyncAPI PHP template](https://github.com/asyncapi/asyncapi-php-template) 
   - Contributor of [AsyncAPI Go template](https://github.com/asyncapi/go-template)
