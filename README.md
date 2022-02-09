@@ -13,6 +13,7 @@ I have been creating software since 15yrs old :underage: , started with Basic, D
   - [AsyncAPI initiative](http://asyncapi.com/)
   - Donator and current maintainer of the [AsyncAPI PHP template](https://github.com/asyncapi/asyncapi-php-template) 
   - Contributor of [AsyncAPI Go template](https://github.com/asyncapi/go-template)
+  - Member of the [AsyncAPI TSC Committee](https://www.asyncapi.com/community/tsc)
   - Maintainer of the [Sheetsu PHP SDK](https://github.com/emilianozublena/sheetsu-php)
 - :newspaper:  I like to write articles of whatever it is that i'm learning -either tech related or not- in [my medium account](https://medium.com/@emilianozublena)
 - :email:  Reach me at ezublena@gmail.com or connect with me at [LinkedIn](https://www.linkedin.com/in/emilianozublena/)
