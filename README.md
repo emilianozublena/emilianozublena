@@ -1,5 +1,5 @@
 ### Hi there 👋
-Iʼm Emiliano Zublena, a passionate Software Engineer native from Argentina, and currently living as a Nomad somewhere in the globe :globe_with_meridians:.
+Iʼm Emiliano Zublena, a passionate Software Engineer native from Argentina.
 I have been creating software since 15yrs old :underage: , started with Basic, Dolphin, Pascal and the likes, moved to the PHP world, danced with Javascript(and NodeJS) and currently in an intense love relationship with Golang -which if you haven't tried, i soooo urge you to try it-
 
 - :free:  Started working as a freelance/consultant and building teams for startups in Argentina 
