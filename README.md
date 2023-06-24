@@ -8,7 +8,7 @@ I have been creating software since 15yrs old :underage: , started with Basic, D
 - :couple:  I'm a team player guy, or so my team mates say i am
 - :brain:  I have an attitude of knowledge-sharing and mentoring
 - :new:  I love to deep dive into new technologies and/or research on cutting edge tech stacks for solving problems in the best way we can
-- :construction_worker: Currently i'm Senior Software Architect @Morsum, a New York based company.
+- :construction_worker: Currently i'm Software Architect @Morsum, a New York based company.
 - :open_hands:  And also contributing to:
   - [AsyncAPI initiative](http://asyncapi.com/)
   - Donator and current maintainer of the [AsyncAPI PHP template](https://github.com/asyncapi/asyncapi-php-template) 
