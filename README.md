@@ -1,17 +1,1 @@
-### Hi there 👋
-Iʼm Emiliano Zublena, a passionate Software Engineer native from Argentina. I have been creating software since 15yrs old :underage:
 
-- :free:  Started working as a freelance/consultant and building teams for startups in Argentina 
-- :busts_in_silhouette:  Co-founded my startup (Nubazon) which provided a SaaS for building e-commerce websites for small entrepreneurs
-- :statue_of_liberty:  Moved into the international market, where i've worked mainly on backend roles.
-- :couple:  I'm a team player guy, or so my team mates say i am
-- :brain:  I have an attitude of knowledge-sharing and mentoring
-- :new:  I love to deep dive into new technologies and/or research on cutting edge tech stacks for solving problems in the best way we can
-- :open_hands:  And also contributing to:
-  - [AsyncAPI initiative](http://asyncapi.com/)
-  - Donator and current maintainer of the [AsyncAPI PHP template](https://github.com/asyncapi/asyncapi-php-template) 
-  - Contributor of [AsyncAPI Go template](https://github.com/asyncapi/go-template)
-  - Member of the [AsyncAPI Technical Steering Committee](https://www.asyncapi.com/community/tsc)
-  - Maintainer of the [Sheetsu PHP SDK](https://github.com/emilianozublena/sheetsu-php)
-- :newspaper:  I like to write articles of whatever it is that i'm learning -either tech related or not- in [my medium account](https://medium.com/@emilianozublena)
-- :email:  Reach me at ezublena@gmail.com or connect with me at [LinkedIn](https://www.linkedin.com/in/emilianozublena/)
