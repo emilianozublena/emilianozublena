@@ -1,6 +1,5 @@
 ### Hi there 👋
-Iʼm Emiliano Zublena, a passionate Software Engineer native from Argentina.
-I have been creating software since 15yrs old :underage: , started with Basic, Dolphin, Pascal and the likes, moved to the PHP world, danced with Javascript(and NodeJS) and currently in an intense love relationship with Golang -which if you haven't tried, i soooo urge you to try it-
+Iʼm Emiliano Zublena, a passionate Software Engineer native from Argentina. I have been creating software since 15yrs old :underage:
 
 - :free:  Started working as a freelance/consultant and building teams for startups in Argentina 
 - :busts_in_silhouette:  Co-founded my startup (Nubazon) which provided a SaaS for building e-commerce websites for small entrepreneurs
@@ -8,7 +7,6 @@ I have been creating software since 15yrs old :underage: , started with Basic, D
 - :couple:  I'm a team player guy, or so my team mates say i am
 - :brain:  I have an attitude of knowledge-sharing and mentoring
 - :new:  I love to deep dive into new technologies and/or research on cutting edge tech stacks for solving problems in the best way we can
-- :construction_worker: Currently i'm Software Architect @Morsum, a New York based company.
 - :open_hands:  And also contributing to:
   - [AsyncAPI initiative](http://asyncapi.com/)
   - Donator and current maintainer of the [AsyncAPI PHP template](https://github.com/asyncapi/asyncapi-php-template) 
